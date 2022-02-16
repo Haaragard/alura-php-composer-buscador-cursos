@@ -1,0 +1,17 @@
+{
+    "name": "haaragard/buscador-cursos-alura",
+    "description": "Projeto que busca os cursos no site da Alura",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Haaragard\\BuscadorCursosAlura\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Haaragard",
+            "email": "diogololz159@gmail.com"
+        }
+    ],
+    "require": {}
+}
