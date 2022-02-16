@@ -13,5 +13,7 @@
             "email": "diogololz159@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    }
 }
