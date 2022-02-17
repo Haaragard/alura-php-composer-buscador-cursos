@@ -26,6 +26,7 @@
     "scripts": {
         "cs": "phpcs --standard=PSR12 src",
         "phan": "phan --allow-polyfill-parser",
+        "run-code": "php ./src/buscar-cursos.php",
         "check": [
             "@phan",
             "@cs"
