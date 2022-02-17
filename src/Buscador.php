@@ -10,8 +10,7 @@ class Buscador
     public function __construct(
         private Client $httpClient,
         private Crawler $crawler
-    )
-    {
+    ) {
         //
     }
 
